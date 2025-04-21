@@ -10,3 +10,5 @@ https://www.kaggle.com/code/gabrielcunhateixeira/regras-de-associacao-gabriel-da
 
 Link para download da base de dados limpa:
 https://drive.google.com/file/d/1z0DsH2ZbiWBpz5UnFfQNWCoPJbxVEi6G/view?usp=sharing
+
+Anexei o .ipynb na pasta do repositório.
