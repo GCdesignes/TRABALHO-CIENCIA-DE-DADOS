@@ -8,4 +8,5 @@ https://www.kaggle.com/code/gabrielcunhateixeira/trabalho-ciencia-de-dados-gabri
 Link para o notebook das associações:
 https://www.kaggle.com/code/gabrielcunhateixeira/regras-de-associacao-gabriel-da-cunha-teixeira
 
-A base de dados limpa está vinculada na pasta
+Link para download da base de dados limpa:
+https://drive.google.com/file/d/1z0DsH2ZbiWBpz5UnFfQNWCoPJbxVEi6G/view?usp=sharing
